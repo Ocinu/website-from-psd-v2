@@ -1,0 +1,53 @@
+@media only screen and (max-device-width: 900px){
+    h1{
+        font-size: 28px;
+    }
+
+    .footer_cont{
+        transform: scale(0.65, 0.65);
+    }
+
+    #amelia{
+        height: 220px;
+        background-image: url(image/amelia_small.png);
+        background-size: cover;
+    }
+
+    .work__item{   
+        width: 100%;
+    }
+
+    .about_text{
+        width: 100%;
+    }
+
+    .food_text{
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .content_conteiner{
+        padding: 50px 0;
+    }
+
+    .contact_container{
+        flex-direction: column-reverse;
+    }
+
+    .info{
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .form{
+        width: 100%;
+    }
+
+    .btn_p{
+        width: 100%;
+    }
+
+    .map{
+        margin-top: 50px;
+    }
+}
