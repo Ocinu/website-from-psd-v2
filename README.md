@@ -1,2 +1,2 @@
-# layout with psd
- layout of the site-business card with psd layout
+# website from psd
+ imposition of small website from psd layout
